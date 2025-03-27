@@ -1,0 +1,135 @@
+{
+    "customers": [
+        {
+            "customerId": "7695696232691",
+            "name": "gAAAAABnkrmAcdSezWKMAZ6IMNYxer1xXR16n_J_8yGayhThCIDTQPkIMnkxRj8HmFN9IUuwCj0hyzEbtF8YYGy5hvNnxdpu7DLVU9pcF7hLy5axhCzYiZE=",
+            "email": "gAAAAABnkrmARwtvUM16uRcZy_uCj8pFA8Ll1w10ix8kqVKkWNq4UZdvaCQSW-NTCq9ewU-dcY2YqKyAz90xKcUwPp00RYxZ7ZT2Jl3wcpzbSox4EjIz4_0=",
+            "phone": "gAAAAABnkrmA_A0p4JBln3RPzpl1hRt_PDkjFJOHAsfO9m_EEJ6OLJhINBvVw0lpoxxOMi_qZU-D0-WoivoTaLk1l3t0hLVcQg==",
+            "address": "gAAAAABnkrmA5jdlIvoIt-vLnIQLO6H8f02Dm-HHv6eKWG6j9fi5S9g2RfE15vKEpAS2CPNLybVo1EmOQ9LfUNpm9uwxO6nOwclsPEAjDiZF_-LOa9aTfWUTsjSZwoUK2zt0bnuuxu3H",
+            "geoLocation": {
+                "latitude": 39.5329914,
+                "longitude": -104.6919105,
+                "__typename": "Point"
+            },
+            "__typename": "Customer"
+        },
+        {
+            "customerId": "6531069083891",
+            "name": "gAAAAABnkrmAMIhiyUResIAUeDsiRpgqD5U3Cx7kvAMdaE82_7o7jaL4b536l5AGfAAOEBhnD8xATepFd7wsWusSQtSx1meYEQ==",
+            "email": "gAAAAABnkrmAP_WYLbrIsK44P_mCqreBjOUxcwdhqOzx4vApqLTi8MPKnLBkdWAbNlKWpffCM-WQnJUe1BfWvovg2ozCiU_EjcxiMA5qV3nNPeggEWu-IOk=",
+            "phone": "gAAAAABnkrmAxgbz0Y5auBS7nBrLQrpbol31Xu97qi7mTmF0gcvpP_GFJYAxRYSdQjlRCIZ6STcu58sfaVru6iuIoVp7aUp0yQ==",
+            "address": "gAAAAABnkrmAX3hA1SEhpOTKazPiTpvH-HPwXJlTL5Yy1xQWP3ttWsIovUt23FLSEHHntes8xWpFJF-9Vxne3XerNuKDoJBTkylfybjIMLYp-ei4W5MOWAUyhdMBFaMtsdGnQWb-c5wP",
+            "geoLocation": {
+                "latitude": 42.0175888,
+                "longitude": -87.6840909,
+                "__typename": "Point"
+            },
+            "__typename": "Customer"
+        },
+        {
+            "customerId": "6593664450803",
+            "name": "gAAAAABnkrmAYBCC_-dIpB7S-7RJX7thH43wevhTBouglFbnAyD5s5SZdfbEkYlW7clL4e9FCpiunlwAjANqE-rCmOfgrMfKgQ==",
+            "email": "gAAAAABnkrmAC7YXg4SToYZkWL2hczzZdmomgViO5VPdXZpm8DuxyuW3WTYgLAlJVxU9lvH16mpx1r5-0LHOSPLenBrT8WRM3IJwO9LebpI-r46LK1xFYTo=",
+            "phone": "gAAAAABnkrmAGGFKI9OliB6AiEnHZRXEbIQBTuJmkMntl704--6R1LRcpACv9z4F4es9HkOLclId0nm5wWneJLGFHT3oEPq5Vw==",
+            "address": "gAAAAABnkrmAx3JDcZMWJX339K2RCcdlHiLSTiYD9fsjg1b9cATY2MMftif1ZU1mNMmT9jyVUTZAoEkbF7JaGJze_x95L6DjwCVwN3i9EqTWAV4T70jAiKyg0Tmzdpx0JmMaip0szq5q",
+            "geoLocation": {
+                "latitude": 31.8569517,
+                "longitude": -81.58567579999999,
+                "__typename": "Point"
+            },
+            "__typename": "Customer"
+        },
+        {
+            "customerId": "7589019975923",
+            "name": "gAAAAABnkrmAh_pi2rXl99e4PtuzcujRl4VQOElTAqywdDSf233YEernrkOOU8xQh80M1-gXXWnRS_WRICEWOxFj4evBROCiHg==",
+            "email": "gAAAAABnkrmA4umaScnqGLXVg05m27j24JLjURW976yPhNuYFq5mEdYUxSteMnnVdC2P_v-nBIfVsLVSGDelotnG5gEdWckE9ZkVL1QqE6zZUSgFu7gEdRA=",
+            "phone": "gAAAAABnkrmA3EBKKajVwgdYLESKBYZlPi6aF9A7q08-D4X6A6IVn06qfCnxQ5Z-l_B6c7czS-ETFg7OBZt4MFb2-NBNj11edg==",
+            "address": "gAAAAABnkrmA4yI0O1-39bCL6PhVFkTmSKAwsHg20w7Hj_e0pfCc-iNw723ePi7Cx7r9HWkK6gCXjB5Kk-VvDxva0sHhzrpwlxFGA2MBpxvD_DnyZVNtFrTXPbf4bo9vw_548qZoGQ4dvSIQSB2l3OSeI2WG5LHGTw==",
+            "geoLocation": {
+                "latitude": 32.8200607,
+                "longitude": -80.0945406,
+                "__typename": "Point"
+            },
+            "__typename": "Customer"
+        },
+        {
+            "customerId": "7814370656499",
+            "name": "gAAAAABnkrmAdLGXWmdTdexNUMCnXDAHzs_j-g61a26627D3RLF3Ya02N39mDCwdpvBGzr4o-iupTE_NXYC7XyD53Obu5gVwyg==",
+            "email": "gAAAAABnkrmAgYyNCcSrx294WGOr51TaJ9h936Lr28fg5VIdqJR5U79n-KlYizIgTcgWC5QlBFWioeXp1-JtKv3FOZvbww3egA==",
+            "phone": "gAAAAABnkrmAor10agpTN2m1swMWN_rxQlsfMVE-zNeXqNxqgDWUwr824G7SGQ5beMDvSm-yKT8xi0kSKnOiqlFsFpSzH_YyKA==",
+            "address": "gAAAAABnkrmApPo1eE8SxFP9pFmrSnoL4Fa57zNbgCh26rC_m7hrU8s-9G7gm1fc8B70_gX8DjDp1mOfwmYQN8KHA0rTtbWNrnUx2as7fxoFA6dKTmgeBvVeYwruneMSfRJPtuvEB8j_",
+            "geoLocation": {
+                "latitude": 28.5813728,
+                "longitude": -81.4562096,
+                "__typename": "Point"
+            },
+            "__typename": "Customer"
+        },
+        {
+            "customerId": "7773771497715",
+            "name": "gAAAAABnkrmAA1FkTBE20iQa19_HkpvyWr0Wggw_T6xoPWbA5MSBqAk7_kFsSB6ct144cXkNoXEIIvbX2KHBWRFexpRkl_yNYg==",
+            "email": "gAAAAABnkrmAm5cKA3w9andLELiT3psEu7pJMkEKjlW8HEbuwVBhwJvTObOjc_uW-O1OFkxnQyIrqBKnE95Rms68D1ftRveabAZsgvcn03pC3i3GcKJfRdg=",
+            "phone": "gAAAAABnkrmAt0vxM5Sq_V9t4Rk5pUfZ13VYdzP4BPbAz5lpbxuWDfKTpgbtk21O1xAX-Kawbdd0gVD_HUDxx5APzhImH4Bbhg==",
+            "address": "gAAAAABnkrmA9wfpEj6bZXEcJQejOd7CUKZSkUUhBWzTKF9p9OkVv5gmcK2FsO2e7xjElanZT1nlLyGY_LJ8JMEvgf6mxFQ5RlVmHsMbCiXOhZa9Q40TDPZGw0fR0OUch05i6l1n5y9R",
+            "geoLocation": {
+                "latitude": 34.1042412,
+                "longitude": -117.3978344,
+                "__typename": "Point"
+            },
+            "__typename": "Customer"
+        },
+        {
+            "customerId": "6716403679475",
+            "name": "gAAAAABnkrmAfGB8yt6gP1TmOfNRWmcknLfNF4u4rDZZqfKLIcJyxuQ-F6T-oSWtBLGuJhSHxArs6PTaEKAQPvknGJjVnUKNhQ==",
+            "email": "gAAAAABnkrmA1XerNDlCinYq7egcjWBfe0FJq33yZwV6v_TkDqbbKEmCv5bl_k7hNFLaqhtjb8iXO4AI99_voaxkij1D0LoibGCb8GYg2ZdVY0YegEeVGTg=",
+            "phone": "gAAAAABnkrmAUeMl2FmjwhmeURRHzYltaVXdpCGkK_1lT8M3vsiJQcQDHVun7qKbFOaLg9oG4ISC1HzLCNxSiBjBEj8vIxlDlg==",
+            "address": "gAAAAABnkrmAUjcNQPNkdrCUc5qhA5GKMg4HMOUnMTwfpA-Hq6cb7rakhtjol4bfsJHyiVv4l5CYyn_um16G2jP464dMxZ8bsOH-bT2Qvi5L6zG1NpjeJGOqF8cEJAsLqinCC_zuMqUv",
+            "geoLocation": {
+                "latitude": 32.71283680000001,
+                "longitude": -117.2361627,
+                "__typename": "Point"
+            },
+            "__typename": "Customer"
+        },
+        {
+            "customerId": "7772914057459",
+            "name": "gAAAAABnkrmA0y991fjHJfaD88fMh82n-MEiCTLkGlTO_Z7TLlCb59z8F0Euk85-RgA_yR2jA8am_Mo_Kps0cyeht8EEi1D8CUrRfAIIwjkBy96W4C1-2Vo=",
+            "email": "gAAAAABnkrmADkSKu-Fo_bqAbPwt789LSHvp4nftedoobrZ8PDVhRlsYsxdEZx_qznnELG5lvFX_o7Kff1Gr8n8bS1c5ha8IzEg3f69-EBRuGVvi3XGNw-E=",
+            "phone": "gAAAAABnkrmAynq-1IaKq0Z0IFlP6ExOTZ7Ju-phXTxzIOwxovVoe42KfgWDMYACLNSHiTdt_MZeQde0v8rqx6Cu42k6BovdEw==",
+            "address": "gAAAAABnkrmAKv-w-2O1Ccj-_0I2ezumkk3DRTPjTrcu3E0RCGm2niyXUiF-_D_BP5ONtnaTRiOBoTC1ngeBmQm-saaS0ryTWsqspbS_yp3at0ew8W9F6yx7lvqFBgLjqWgLv9xgZdu4",
+            "geoLocation": {
+                "latitude": 32.6794228,
+                "longitude": -97.0145048,
+                "__typename": "Point"
+            },
+            "__typename": "Customer"
+        },
+        {
+            "customerId": "6318682996979",
+            "name": "gAAAAABnkrmAVY5pkm9IyJTIG-2i5KjnNHyFd1MyaF0LLoG566fDevrMIiqFV5O6Sf21OZBZ4kF3Fqak8nFMdUsTKe_Fw0KaeA==",
+            "email": "gAAAAABnkrmAvrz4agBqVNeOLe8JwOwtPJLArdoqndP6PpgcFmQQRfutYt1ooTUGv7YjjmRjIoPOrCXPBUZSl8soDazcx3ogFvjV6LhKviRxocNpfJF6Miw=",
+            "phone": "gAAAAABnkrmAWbw8joX4G52E6x9Ric37VPSBe5wdFKz3nT3oqne6dKWNPSsfxfRILZpptlrxR6SoBIZPRCvDHZi5lnC6duHcBA==",
+            "address": "gAAAAABnkrmANmj_zVSms-SnM_-z7sfcGzJDVSUQmzI8eEYXqkHAzwE_NW8e0Uo-Yr1aIGtg8mNieuST0ZHHLevd7ZOov_LjPqHP1NNyNepBRkXz4aVg2CcousrrIP_RokTsgPHYnZc3vsc1zDEPqTtYMT2THd0d9g==",
+            "geoLocation": {
+                "latitude": 32.0570698,
+                "longitude": -102.0816009,
+                "__typename": "Point"
+            },
+            "__typename": "Customer"
+        },
+        {
+            "customerId": "7418166214899",
+            "name": "gAAAAABnkrmAbYYZtfPlHfKnGXPwOt7fZcO-v-Tj0wtNckV-_wUH4en5mh3VofpKBp9Gq0jhfqfAo3h3SGAn1tUwK7CXfhcxew==",
+            "email": "gAAAAABnkrmAv8qwed2Dg-EwTyOpez7pRRgRTKBTYOvOdXUnDGxhHGAfASEU0vU20Mqz8ZXzEc99omfeJaZ4sUBbAql0U5BA_3HJ3q1pPL-gRxKJmodT1pY=",
+            "phone": "gAAAAABnkrmAHXXc3dWLm5aAQO7twsD0KEbGifqitDCxRSdGkTM5n7vdIepQKASM-BSw5tiL7CtyDvq2BsTG4h62NFpcZKXpkg==",
+            "address": "gAAAAABnkrmAH5mYvBzn9r5yp6jr2IsNozeAJsdaYLFUztpjgm8EaM7yRZykwqiHi0L2uFMvrbWO5Oswk4el6LI07lJWMFocmATESGLJZLGIKEd3UCCLfeQ_aWMCJ2J1yT503SdNK4aa4T4fGAs7MwDQd6sX7aaxjw==",
+            "geoLocation": {
+                "latitude": 34.09056,
+                "longitude": -84.01105199999999,
+                "__typename": "Point"
+            },
+            "__typename": "Customer"
+        }
+
+    ]
+}

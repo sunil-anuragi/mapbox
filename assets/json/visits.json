@@ -1,0 +1,1273 @@
+{
+  "visits": [
+    {
+      "id": "2417a410-38cd-4ad3-acf7-a85de1ffb4f6",
+      "geoLocation": {
+        "latitude": 29.5479125,
+        "longitude": -98.4610938,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "6e2fafff-e3c3-41fb-a3b8-75c60f82fe3f",
+      "geoLocation": {
+        "latitude": 29.43104212,
+        "longitude": -98.55879479,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "4b33553a-09f5-4004-89b5-23aeffd9af60",
+      "geoLocation": {
+        "latitude": 29.48515554,
+        "longitude": -95.11297848,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "c58d5b68-d7a7-4914-ae20-56ca134a67bf",
+      "geoLocation": {
+        "latitude": 29.4718574,
+        "longitude": -98.4636411,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "1d673896-56de-4b11-b6c4-a55272ab78fe",
+      "geoLocation": {
+        "latitude": 28.512095103872984,
+        "longitude": -81.15198527249645,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "23dc43d4-b8e0-43e6-a2fc-811504ebdcd8",
+      "geoLocation": {
+        "latitude": 28.512095105373938,
+        "longitude": -81.1519852783747,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "3758def5-3dce-4c56-821c-ebe8f785db5d",
+      "geoLocation": {
+        "latitude": 29.4945658,
+        "longitude": -98.5699103,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "8816c110-1046-4cfa-ad46-fd64e8ff1246",
+      "geoLocation": {
+        "latitude": 28.512118017853794,
+        "longitude": -81.1519999101158,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "cdad3fbf-bb7b-4628-922a-df59570f8354",
+      "geoLocation": {
+        "latitude": 29.5246409,
+        "longitude": -98.4953935,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "56a663c0-5ef1-4f06-a17a-1c4969950fa4",
+      "geoLocation": {
+        "latitude": 29.4984369,
+        "longitude": -98.4695456,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "9fcccdac-1a4d-4462-a04b-509f9dea8f03",
+      "geoLocation": {
+        "latitude": 29.5590755,
+        "longitude": -98.4848772,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "a89ebd55-8a53-4f5f-9720-43482aac62ba",
+      "geoLocation": {
+        "latitude": 34.54529081474491,
+        "longitude": -82.69924574539317,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "09b73727-0171-4173-adb6-39bbf191c3d9",
+      "geoLocation": {
+        "latitude": 34.50027949179942,
+        "longitude": -82.6444026176656,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "29dea1f3-31e0-4b7d-82cb-50aa0245b5b2",
+      "geoLocation": {
+        "latitude": 34.549639264622876,
+        "longitude": -82.67716637941754,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "22fcade8-bb99-40b0-9e0c-1a4b3c1a44e1",
+      "geoLocation": {
+        "latitude": 28.512118017853794,
+        "longitude": -81.1519999101158,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "b282d059-ec02-4350-ae7d-013609847ab2",
+      "geoLocation": {
+        "latitude": 28.512118017853794,
+        "longitude": -81.1519999101158,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "0c85b30c-0e20-46cd-9bac-92b237686b76",
+      "geoLocation": {
+        "latitude": 28.512118017853794,
+        "longitude": -81.1519999101158,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "cf18c6eb-f619-4aa5-b60f-9653072d0dca",
+      "geoLocation": {
+        "latitude": 28.9395611,
+        "longitude": -98.5111999,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "420bb864-27e1-4147-a38b-1f0593144315",
+      "geoLocation": {
+        "latitude": 28.9491964,
+        "longitude": -98.5010921,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "6b973968-fca4-4f40-8732-e4846e926c0b",
+      "geoLocation": {
+        "latitude": 29.923080730564678,
+        "longitude": -95.481364742533,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "aa63c611-4a5f-4e9d-95b0-81e28e3ed97c",
+      "geoLocation": {
+        "latitude": 28.9186246,
+        "longitude": -98.5476657,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "f7dd3e77-fdb1-45e7-92cc-e97cd823eb01",
+      "geoLocation": {
+        "latitude": 29.869399821269276,
+        "longitude": -95.33201603997377,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "61f48421-fcf6-4767-88d4-dbfceb94feb6",
+      "geoLocation": {
+        "latitude": 28.9438479,
+        "longitude": -98.506847,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "a1ccd192-6540-4d5a-83bc-604078f47afa",
+      "geoLocation": {
+        "latitude": 28.512118017853794,
+        "longitude": -81.1519999101158,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "e57abcb4-1bfb-4b72-8fec-7736526591ad",
+      "geoLocation": {
+        "latitude": 29.628167423322243,
+        "longitude": -95.39164472221579,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "15bd9a21-feb5-46bf-8925-035a2923d539",
+      "geoLocation": {
+        "latitude": 28.512118017853794,
+        "longitude": -81.1519999101158,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "4a4e5a78-4b1a-4430-9dfa-afb6ba151195",
+      "geoLocation": {
+        "latitude": 28.51209030980435,
+        "longitude": -81.15198291842401,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "ffc19208-7a47-4305-a8d4-fea734997234",
+      "geoLocation": {
+        "latitude": 27.73246784961798,
+        "longitude": -97.37485694508257,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "d29b3494-4492-43b9-839d-a190bee20a68",
+      "geoLocation": {
+        "latitude": 27.77795674200105,
+        "longitude": -97.418829008356,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "4799e83b-5fbb-45c0-a825-a95df982d245",
+      "geoLocation": {
+        "latitude": 33.6369551395518,
+        "longitude": -84.01451627862055,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "c9983f29-cbd5-48cd-89e0-25f8c20e91c4",
+      "geoLocation": {
+        "latitude": 34.86149976603638,
+        "longitude": -82.26751306653833,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "c698d5dc-9944-4b1e-a295-0bbce2ca33bc",
+      "geoLocation": {
+        "latitude": 33.63157179618456,
+        "longitude": -83.97742864072255,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "8136842f-cd03-44e0-9461-8ca906e4099d",
+      "geoLocation": {
+        "latitude": 34.872232689554686,
+        "longitude": -82.25586108871015,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "6929ec33-4697-4b8e-8b90-2cf4583ee04e",
+      "geoLocation": {
+        "latitude": 34.94067887569672,
+        "longitude": -82.25967998270184,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "4a41f964-2158-4151-819b-06ccd251cc08",
+      "geoLocation": {
+        "latitude": 27.490603666757437,
+        "longitude": -97.85528709719779,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "1ee32d5d-3f9e-45a9-b410-a0dd15712ac1",
+      "geoLocation": {
+        "latitude": 27.499673268606546,
+        "longitude": -97.85666889410513,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "65ca0d7d-d7c7-43d2-96a9-31bfa2263769",
+      "geoLocation": {
+        "latitude": 33.79002774742222,
+        "longitude": -84.62257778281813,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "1cf7d2fd-b949-437b-8fdf-c09ac2a216a6",
+      "geoLocation": {
+        "latitude": 34.92400724444076,
+        "longitude": -82.30487577624834,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "d19cd5f9-2024-461e-b1fa-d2420430dd85",
+      "geoLocation": {
+        "latitude": 28.811256476903782,
+        "longitude": -81.3235027039917,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "af0b9307-b29a-4402-86b3-2db4564bc596",
+      "geoLocation": {
+        "latitude": 27.75219234618659,
+        "longitude": -98.06497128883284,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "aec76d2b-4150-4b62-b58b-7272bb6d5fa4",
+      "geoLocation": {
+        "latitude": 33.7751593000668,
+        "longitude": -84.5299759035502,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "f36da3d9-534a-4d9d-a92e-6daa5aa7e578",
+      "geoLocation": {
+        "latitude": 33.576459,
+        "longitude": -84.4129973,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "efd377d4-a30b-45b7-8058-65df49fdb108",
+      "geoLocation": {
+        "latitude": 28.56968157969258,
+        "longitude": -81.23299818685489,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "9275a710-8be4-480e-856b-ace1c4fbf282",
+      "geoLocation": {
+        "latitude": 29.77368319,
+        "longitude": -95.39829453,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "52324958-d2f7-4c62-b3cb-a792a6eba1d3",
+      "geoLocation": {
+        "latitude": 29.7702521,
+        "longitude": -95.40994231,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "6b8ddd94-f090-4281-ac8e-98f48c589287",
+      "geoLocation": {
+        "latitude": 29.75016403,
+        "longitude": -95.48451233,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "8168fdf6-0e88-47a3-b44c-008179502fbc",
+      "geoLocation": {
+        "latitude": 29.86810245,
+        "longitude": -95.47179524,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "c05e5204-21e6-473e-98b2-682727649a06",
+      "geoLocation": {
+        "latitude": 28.61177261,
+        "longitude": -81.28238241,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "6336065e-4246-4cc1-b78c-a4f53aac4cbd",
+      "geoLocation": {
+        "latitude": 29.922950866451053,
+        "longitude": -95.4814688956451,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "f80995a8-ccc5-4890-9b43-ab6502fbf6be",
+      "geoLocation": {
+        "latitude": 29.87037132976153,
+        "longitude": -95.40538535275799,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "84f00334-c43e-4138-94fa-8c652ccdabd4",
+      "geoLocation": {
+        "latitude": 34.01308261,
+        "longitude": -84.55385345,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "7f9bdeed-cdb1-457d-8295-6d281dcd4f71",
+      "geoLocation": {
+        "latitude": 33.80913996,
+        "longitude": -84.41375957,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "bfeb54aa-bd84-4232-a1be-121e2dfc8d3b",
+      "geoLocation": {
+        "latitude": 30.24186295,
+        "longitude": -97.88152675,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "7fadba68-2c19-4323-8f12-155e81a9aae6",
+      "geoLocation": {
+        "latitude": 30.23444528,
+        "longitude": -97.87729673,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "ae07215e-6639-4180-8a6c-2262bbe63400",
+      "geoLocation": {
+        "latitude": 33.65745022,
+        "longitude": -84.51161716,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "12431246-053e-4d66-8f5c-5f020aab2f4b",
+      "geoLocation": {
+        "latitude": 30.24727427,
+        "longitude": -97.58206248,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "56f68892-d124-4d47-8fdb-ef721730858b",
+      "geoLocation": {
+        "latitude": 33.74718062,
+        "longitude": -84.69726542,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "58eaabcd-ac1d-4308-a084-f221c91ea349",
+      "geoLocation": {
+        "latitude": 34.54532535,
+        "longitude": -82.68031611,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "bc71ad83-cbfb-441c-9df9-3bd4d6c26df7",
+      "geoLocation": {
+        "latitude": 30.27962357286554,
+        "longitude": -97.64552497946818,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "8bd69f12-9ada-4f84-a991-63b6a664e8a7",
+      "geoLocation": {
+        "latitude": 34.53686805,
+        "longitude": -82.66752879,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "a5f873e1-f41f-4b88-b956-488341a67358",
+      "geoLocation": {
+        "latitude": 28.38572542,
+        "longitude": -81.48540498,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "f5bbf284-8151-4880-a2fd-9297f4af897c",
+      "geoLocation": {
+        "latitude": 30.27993497,
+        "longitude": -97.64586021,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "909eb261-3e85-46c4-a857-e76be9eb2d63",
+      "geoLocation": {
+        "latitude": 30.284519492237784,
+        "longitude": -97.66037468617596,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "e468a8c3-04cc-4f9f-8bb5-88c190108c0c",
+      "geoLocation": {
+        "latitude": 30.28453094,
+        "longitude": -97.66040516,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "7702f60d-e590-4541-9cc7-e46f3ed2a75d",
+      "geoLocation": {
+        "latitude": 28.46045889,
+        "longitude": -81.30873427,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "39ff0dbd-8fbf-4050-8fea-5bccc219e12b",
+      "geoLocation": {
+        "latitude": 34.51648204,
+        "longitude": -82.66335878,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "114a6816-5dbe-4741-a310-2add9c508132",
+      "geoLocation": {
+        "latitude": 30.126536232068034,
+        "longitude": -95.47054248253696,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "a03d1360-d868-42de-9775-705116595cc4",
+      "geoLocation": {
+        "latitude": 29.56063225,
+        "longitude": -95.32964701,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "efbcd7d0-0005-4ab8-9905-e61a7726a118",
+      "geoLocation": {
+        "latitude": 29.55939796,
+        "longitude": -95.30938474,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "0e707c07-1364-4162-95d0-c89ab790e461",
+      "geoLocation": {
+        "latitude": 28.54407806,
+        "longitude": -81.3788829,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "f0f6cb21-e155-45c4-a0b9-9b73dd0270f8",
+      "geoLocation": {
+        "latitude": 29.5525173,
+        "longitude": -98.4685812,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "6224d2a6-a338-41f6-9c04-4c18c6e0989c",
+      "geoLocation": {
+        "latitude": 29.55841801,
+        "longitude": -95.26376638,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "1647ae17-5caa-44bd-90f2-49bc00fde0f0",
+      "geoLocation": {
+        "latitude": 28.546117,
+        "longitude": -81.41553489,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "51cea3d3-a98c-4e99-a57a-4caae98be425",
+      "geoLocation": {
+        "latitude": 33.88639860156728,
+        "longitude": -84.73858278446528,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "96e90f1a-8b47-48b3-8693-dc6a8cb4b0e9",
+      "geoLocation": {
+        "latitude": 29.53769082,
+        "longitude": -95.21206013,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "3eccc497-ba64-4b5f-bb34-a3e8f4e9b59e",
+      "geoLocation": {
+        "latitude": 29.6274032,
+        "longitude": -98.4943383,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "9693b0eb-d768-4675-bcf2-20417a5525bd",
+      "geoLocation": {
+        "latitude": 29.6350594,
+        "longitude": -98.5160786,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "01e6ba76-d6d4-446b-95ba-88968e72e168",
+      "geoLocation": {
+        "latitude": 29.6017581,
+        "longitude": -98.5337677,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "a24813b3-fae8-4516-9b84-369e5d9bb505",
+      "geoLocation": {
+        "latitude": 29.356998776163742,
+        "longitude": -98.55460205251254,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "fdab742c-db2b-49e3-9b8e-e90850609013",
+      "geoLocation": {
+        "latitude": 29.49014812,
+        "longitude": -95.15459888,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "ccb5c09b-384d-4e8a-acb1-926b89d740f5",
+      "geoLocation": {
+        "latitude": 28.6033755,
+        "longitude": -81.4072147,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "2483b966-7ac0-4f02-9a1b-2da15e4d9760",
+      "geoLocation": {
+        "latitude": 29.35693596,
+        "longitude": -98.5111484,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "2429f1d0-5d8d-4d3a-8d59-8567c864812f",
+      "geoLocation": {
+        "latitude": 29.413062940947068,
+        "longitude": -98.52874528588889,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "63ff86df-4d4a-4c46-805f-479e138d6b5f",
+      "geoLocation": {
+        "latitude": 34.50336349,
+        "longitude": -82.68163009,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "cd5ece65-569b-480c-a6b4-bb0e78bd44cb",
+      "geoLocation": {
+        "latitude": 29.423000833058545,
+        "longitude": -98.4925358618889,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "4377b8a1-8b55-4eb1-982a-0a1da91d5125",
+      "geoLocation": {
+        "latitude": 34.50979516,
+        "longitude": -82.65091781,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "86b989ab-b8d6-4f07-be11-b90f82c4a43c",
+      "geoLocation": {
+        "latitude": 34.5495851,
+        "longitude": -82.67711086,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "ec6bf926-eb57-41e2-9874-b6ed46c9fb50",
+      "geoLocation": {
+        "latitude": 29.39863606,
+        "longitude": -98.39895295,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "094c4490-d6d9-404e-af55-a5a9414a662c",
+      "geoLocation": {
+        "latitude": 34.62047958749777,
+        "longitude": -83.04750083022103,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "307ccd10-a661-4993-96e4-26b8307ec9a4",
+      "geoLocation": {
+        "latitude": 29.6109487,
+        "longitude": -98.4663418,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "0569c15c-d5e8-4ed6-97c1-daafffc89750",
+      "geoLocation": {
+        "latitude": 29.74135,
+        "longitude": -98.4355119,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "24ff51af-dcb2-4af1-88e3-2fa0ee75ab4e",
+      "geoLocation": {
+        "latitude": 29.8254517,
+        "longitude": -98.5727251,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "18ed0645-b5f3-43b7-ae45-dd1e2b1cd78f",
+      "geoLocation": {
+        "latitude": 29.814022,
+        "longitude": -98.6215183,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "c04b41bd-c098-45c9-a2b3-f896204e9f74",
+      "geoLocation": {
+        "latitude": 29.49512706,
+        "longitude": -95.06103437,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "8faf1577-99b8-4aa2-ba82-704d70a84a44",
+      "geoLocation": {
+        "latitude": 29.5940369,
+        "longitude": -98.5282673,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "5bd47e4f-e488-4f0b-883e-dbd4dc9492a2",
+      "geoLocation": {
+        "latitude": 29.50673992,
+        "longitude": -95.04248255,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "c5d41bab-8987-4f30-8205-c15013835bc2",
+      "geoLocation": {
+        "latitude": 29.42091428,
+        "longitude": -98.58578428,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "e4352cdd-03aa-4b64-8bca-24dbdfe7a40e",
+      "geoLocation": {
+        "latitude": 34.60029728686215,
+        "longitude": -82.5439326754598,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "953602b1-308b-4197-be1f-ec9b8596cc93",
+      "geoLocation": {
+        "latitude": 33.7178809,
+        "longitude": -84.1451191,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "545636d5-1c07-4222-b8ec-836f606a0202",
+      "geoLocation": {
+        "latitude": 34.48296933,
+        "longitude": -82.63840453,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "c967a93e-e2a6-430b-ab92-5ff3ba889c78",
+      "geoLocation": {
+        "latitude": 33.69649,
+        "longitude": -84.264437,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "b8d96db0-a590-465b-805f-cca57c8a4a64",
+      "geoLocation": {
+        "latitude": 33.987394072522584,
+        "longitude": -84.35117017940787,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "82dfeb9f-4026-4c0c-bc4f-95957c80557d",
+      "geoLocation": {
+        "latitude": 28.61048459,
+        "longitude": -81.43020199,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "8cd58df1-2fdb-4c62-b80f-d95e8e513049",
+      "geoLocation": {
+        "latitude": 34.00748214,
+        "longitude": -84.573592,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "1a179868-d4a4-4ec0-875d-3b86efdde9a4",
+      "geoLocation": {
+        "latitude": 29.44614524,
+        "longitude": -98.55237612,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "5a1c3aa3-29a9-45ee-86a2-c52ece610a73",
+      "geoLocation": {
+        "latitude": 34.211527655229865,
+        "longitude": -82.1487708241627,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "2c3fbd59-7827-4b3b-bfda-21a45c753d2e",
+      "geoLocation": {
+        "latitude": 34.213414932633015,
+        "longitude": -82.18299167238379,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "3060045b-79af-49c0-93d9-fefa91d81f37",
+      "geoLocation": {
+        "latitude": 28.40722917,
+        "longitude": -81.44962344,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "a1da5785-671a-4fd6-8a5d-f4a1b0fa6335",
+      "geoLocation": {
+        "latitude": 28.40722916575036,
+        "longitude": -81.44962344249542,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "216343d7-9ad2-425c-901d-941d933d71fe",
+      "geoLocation": {
+        "latitude": 28.40722916575036,
+        "longitude": -81.44962344249542,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "94af3c56-dd64-4961-bd8c-494622a956f8",
+      "geoLocation": {
+        "latitude": 34.44365399427194,
+        "longitude": -82.39087007947488,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "ef1ebf74-06d8-4292-8c24-c1e6b6785260",
+      "geoLocation": {
+        "latitude": 34.52195829585495,
+        "longitude": -82.49303369289349,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "b56124f9-1a90-459a-b71f-f14ba50e7ae7",
+      "geoLocation": {
+        "latitude": 34.6163938287969,
+        "longitude": -82.49367261313134,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "cf218dfc-0518-418b-aeee-135cf62ff288",
+      "geoLocation": {
+        "latitude": 29.468612886315302,
+        "longitude": -95.0850146908218,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "ec31cfb6-088a-415d-9fbc-1a2ec0412aae",
+      "geoLocation": {
+        "latitude": 29.61103448978541,
+        "longitude": -98.46633045446701,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "e59b522b-43bf-4710-9d21-5630f409259e",
+      "geoLocation": {
+        "latitude": 29.46676488,
+        "longitude": -95.09378834,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "f470e0c1-65e1-4b5c-9392-3a2249b7e7f7",
+      "geoLocation": {
+        "latitude": 29.60263574,
+        "longitude": -95.21539961,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "74661ed0-8833-4a76-a40e-16f9eb366286",
+      "geoLocation": {
+        "latitude": 29.67457082,
+        "longitude": -95.26984116,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "fa9ad4a3-826e-42cf-bc30-c174b345655e",
+      "geoLocation": {
+        "latitude": 29.535768073778126,
+        "longitude": -98.35973560027165,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "35b8432d-c53a-4d10-80ef-d3f670f2265a",
+      "geoLocation": {
+        "latitude": 29.85283201,
+        "longitude": -95.18932731,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "a32e42e7-8108-4962-8d91-a82d1ae9442e",
+      "geoLocation": {
+        "latitude": 28.486818933547323,
+        "longitude": -81.40865908271438,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "04c59df1-897d-41f5-89f6-2dadba5bcf02",
+      "geoLocation": {
+        "latitude": 29.535513440941422,
+        "longitude": -98.3764365232609,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "7b39043f-f7c2-4c02-83f7-ae9f27b2bd28",
+      "geoLocation": {
+        "latitude": 33.9481964,
+        "longitude": -83.3587297,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "f1740232-548f-42d4-9ee6-bae7273927b1",
+      "geoLocation": {
+        "latitude": 33.958311,
+        "longitude": -83.3762947,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "c7d7e100-bf7d-44a9-a200-5a93496a7976",
+      "geoLocation": {
+        "latitude": 29.510354419119594,
+        "longitude": -98.40441632048308,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "e4bcee82-aec1-47ab-b732-618c68d86bee",
+      "geoLocation": {
+        "latitude": 34.545401856096674,
+        "longitude": -82.68035621050787,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "c1b7241f-1b32-46a5-ac73-7da6b6981659",
+      "geoLocation": {
+        "latitude": 29.589852437488425,
+        "longitude": -98.29684700312855,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "6bdfdb5a-10f6-4b30-8912-a891888421af",
+      "geoLocation": {
+        "latitude": 35.01594247,
+        "longitude": -82.0201903,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "0ef45706-a480-4096-b407-a00c81193aa0",
+      "geoLocation": {
+        "latitude": 33.9407211,
+        "longitude": -83.4886318,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "4a827603-079c-4e39-8c6d-3841253b003e",
+      "geoLocation": {
+        "latitude": 35.06176155995117,
+        "longitude": -81.99598294690436,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "cc2ea5d0-4fa0-4a42-a3e5-f8afdc0a9390",
+      "geoLocation": {
+        "latitude": 35.04891977,
+        "longitude": -81.98331244,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "c6f53606-c84d-4b66-9166-4875e20f85bd",
+      "geoLocation": {
+        "latitude": 35.02145453,
+        "longitude": -81.96252697,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "f926ce8c-4c37-4b01-8c53-5187a5182084",
+      "geoLocation": {
+        "latitude": 28.54516299934787,
+        "longitude": -81.39750566906321,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "b2d8bc8f-3d8a-4b1e-aee4-b6615ebe0d04",
+      "geoLocation": {
+        "latitude": 34.88747430037231,
+        "longitude": -82.06458823763026,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "336b90da-daca-449c-8d85-d5b154c86583",
+      "geoLocation": {
+        "latitude": 33.946699,
+        "longitude": -83.7518646,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "47c21a06-8de8-4dd4-993f-e544a08f2d47",
+      "geoLocation": {
+        "latitude": 34.91938638,
+        "longitude": -81.99405508,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "e3d011d5-870d-4e5c-b5fa-f69ea7615087",
+      "geoLocation": {
+        "latitude": 28.612369406018235,
+        "longitude": -81.20557912758692,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "3a04dc07-889a-4eb8-b88e-3ae01752700f",
+      "geoLocation": {
+        "latitude": 34.940032479385785,
+        "longitude": -81.94440155297698,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "4ed4a397-72ea-4fc1-a27b-713af0994f27",
+      "geoLocation": {
+        "latitude": 34.92228233258698,
+        "longitude": -81.97132942274396,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "d42348ea-a8ee-4835-9527-9e3f08832e77",
+      "geoLocation": {
+        "latitude": 29.50583456999999,
+        "longitude": -95.03419493999998,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    },
+    {
+      "id": "4c4b4800-b06d-4f87-9615-ec97428f6311",
+      "geoLocation": {
+        "latitude": 29.750303756097416,
+        "longitude": -95.48464917402792,
+        "__typename": "Point"
+      },
+      "__typename": "Visit"
+    }
+  ]
+}

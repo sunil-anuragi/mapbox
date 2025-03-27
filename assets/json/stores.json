@@ -1,0 +1,1176 @@
+{
+  "stores": [
+    {
+      "id": "b57bb2b4-a892-4215-bac2-ce6d945640f2",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 29.7072851,
+        "longitude": -95.5193101,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "0785ba98-a71d-4e1b-8307-4c7b6f2c318a",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": 55.125,
+      "percentile": 41.846675137653534,
+      "geoLocation": {
+        "latitude": 27.712517,
+        "longitude": -82.33990279999999,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "9ea60e0e-dd13-4e5a-b2db-4cc59672ddec",
+      "caseVolumeLTM": 0.2,
+      "caseVolume2024": null,
+      "cirocCases": 25.6756651375,
+      "percentile": 93.81617958492164,
+      "geoLocation": {
+        "latitude": 26.2099031,
+        "longitude": -98.16536599999999,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "2b60d150-ccdd-4644-a70c-48e63c6f0d9f",
+      "caseVolumeLTM": 2.1,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 26.2918128,
+        "longitude": -97.9936065,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "9abd45c6-a16c-45c9-b650-5200dd5add8a",
+      "caseVolumeLTM": 0.2,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 30.0685343,
+        "longitude": -85.5946558,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "f780798d-972a-4728-9c59-5e983c88957d",
+      "caseVolumeLTM": 4.2,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 31.1277378,
+        "longitude": -97.8009555,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "2f82a63c-ef56-41a3-853e-233ec09873e5",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 30.2059947,
+        "longitude": -81.61784899999999,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "c9736c34-901f-4be0-b3d8-b6246d803814",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 30.4732552,
+        "longitude": -87.21120069999999,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "4b4e7f76-d2ee-482f-82a7-4fae18a22f5d",
+      "caseVolumeLTM": 0.3,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 28.3474553,
+        "longitude": -81.6046789,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "d25dc6d7-cf59-4756-a329-1b1d3a785ea2",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 27.9450801,
+        "longitude": -82.49199039999999,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "358298f0-54aa-4d02-a8d8-e8b3b556a537",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 27.8045884,
+        "longitude": -82.6381133,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "6f4a6bd6-8442-48da-84c4-530ec415dcf0",
+      "caseVolumeLTM": 0.1,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 27.9867449,
+        "longitude": -81.95972499999999,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "4a6a2838-1387-4461-9dee-1496adae1470",
+      "caseVolumeLTM": 0.1,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 28.545777,
+        "longitude": -81.732329,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "ac07c352-4071-45cf-92c7-d89e6cfd7fc5",
+      "caseVolumeLTM": 2.5,
+      "caseVolume2024": null,
+      "cirocCases": 31.210599525,
+      "percentile": 80.17789072426937,
+      "geoLocation": {
+        "latitude": 29.4850044,
+        "longitude": -95.1127929,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "d2043537-75e2-4005-b0fe-0c946d3b3700",
+      "caseVolumeLTM": 7,
+      "caseVolume2024": null,
+      "cirocCases": 1159.662943875,
+      "percentile": 0.21177467174925368,
+      "geoLocation": {
+        "latitude": 29.4368629,
+        "longitude": -98.4783101,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "063ceb2c-f2fc-4551-a504-bed14cde5194",
+      "caseVolumeLTM": 1,
+      "caseVolume2024": null,
+      "cirocCases": 110.380051575,
+      "percentile": 11.90173655230835,
+      "geoLocation": {
+        "latitude": 30.0484081,
+        "longitude": -95.3880334,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "01f1fa1a-9abf-4c57-b2a9-b7fb92671f5f",
+      "caseVolumeLTM": 3,
+      "caseVolume2024": null,
+      "cirocCases": 35.390607475,
+      "percentile": 70.77509529860228,
+      "geoLocation": {
+        "latitude": 30.6202085,
+        "longitude": -97.6918968,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "f87f3876-1d96-4214-a460-d531264f6e8d",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": 55.8063454875,
+      "percentile": 41.0842863193562,
+      "geoLocation": {
+        "latitude": 30.703601,
+        "longitude": -97.75012679999999,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "c3791e02-2e22-44ea-9290-5c8183cfeed4",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 30.5948976,
+        "longitude": -97.4125394,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "24b33c5e-bc4d-4bc1-9a81-5b10fbd1eb48",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": 27.8712454875,
+      "percentile": 87.46293943244387,
+      "geoLocation": {
+        "latitude": 32.9500532,
+        "longitude": -96.8299313,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "081b2c79-a9d1-440f-aa69-d1e6ddcc3a94",
+      "caseVolumeLTM": 3,
+      "caseVolume2024": null,
+      "cirocCases": 25.088468675,
+      "percentile": 95.63744176196526,
+      "geoLocation": {
+        "latitude": 29.7042776,
+        "longitude": -95.578357,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "b08b85a4-e069-40e8-9986-f613b0016b6b",
+      "caseVolumeLTM": 2,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 43.664697499999996,
+        "longitude": -96.8108032,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "31aecc62-8fd0-493d-919b-8e6f54b4fc7b",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 29.985159,
+        "longitude": -95.16222739999999,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "b30ff55e-158d-4186-b48f-7651e0dc6bf5",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 29.9727593,
+        "longitude": -95.17121039999999,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "5625df17-f786-4ed5-b9cb-dbfac983e8b0",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": 47.2436628625,
+      "percentile": 51.58831003811944,
+      "geoLocation": {
+        "latitude": 32.81746500000001,
+        "longitude": -96.84034869999999,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "fe6a6309-b96e-4893-946a-5daf67182d0f",
+      "caseVolumeLTM": 10,
+      "caseVolume2024": null,
+      "cirocCases": 118.788294975,
+      "percentile": 9.86869970351546,
+      "geoLocation": {
+        "latitude": 32.7906161,
+        "longitude": -96.7454284,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "6caa59db-a928-451b-a1f7-b82af8aec396",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": 70.625,
+      "percentile": 27.530707327403647,
+      "geoLocation": {
+        "latitude": 30.1589178,
+        "longitude": -85.6529199,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "18432152-948a-40fe-902b-94066c17c861",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": 100.375,
+      "percentile": 14.358322744599747,
+      "geoLocation": {
+        "latitude": 30.140682899999998,
+        "longitude": -81.5499167,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "c8829686-6e6d-4365-83ee-98b7c7cbeb13",
+      "caseVolumeLTM": 4,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 32.9072188,
+      "longitude": -96.5533923,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "a78b5374-76a6-40dd-b841-27e60f3c2364",
+      "caseVolumeLTM": 3,
+      "caseVolume2024": null,
+      "cirocCases": 41.6045333125,
+      "percentile": 59.80516730199068,
+      "geoLocation": {
+        "latitude": 32.8634469,
+        "longitude": -96.8931207,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "2e0989bc-73f3-4381-aa76-9ee20993f4b4",
+      "caseVolumeLTM": 3,
+      "caseVolume2024": null,
+      "cirocCases": 251.153920375,
+      "percentile": 2.541296060991101,
+      "geoLocation": {
+        "latitude": 32.7926536,
+        "longitude": -96.74581010000001,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "cd16d188-54ff-4be8-b534-3ec13e2b26de",
+      "caseVolumeLTM": 2,
+      "caseVolume2024": null,
+      "cirocCases": 69.612535175,
+      "percentile": 28.46251588310038,
+      "geoLocation": {
+        "latitude": 32.8561685,
+        "longitude": -96.7465079,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "8c5fd9b3-4d00-4863-993e-8c17561c1f3b",
+      "caseVolumeLTM": 4,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 33.224519,
+        "longitude": -96.97539599999999,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "320cefc8-8720-411a-a873-44a88b1e0e36",
+      "caseVolumeLTM": 1.5,
+      "caseVolume2024": null,
+      "cirocCases": 59.2581614875,
+      "percentile": 37.78060144006777,
+      "geoLocation": {
+        "latitude": 33.0136515,
+        "longitude": -96.9924826,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "375f55cd-3fca-4f87-97ed-952a5162cdea",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": 30.3688543375,
+      "percentile": 82.0838627700127,
+      "geoLocation": {
+        "latitude": 32.8842751,
+        "longitude": -96.96477139999999,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "54b3ee93-80b0-4e5b-af93-a71ec19fb905",
+      "caseVolumeLTM": 6.3,
+      "caseVolume2024": null,
+      "cirocCases": 75.3533071625,
+      "percentile": 24.227022448115207,
+      "geoLocation": {
+        "latitude": 31.1198188,
+        "longitude": -97.4359853,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "44755e18-aec7-4d20-9b40-076413f38805",
+      "caseVolumeLTM": 1,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 29.861450899999998,
+        "longitude": -95.3851325,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "96a5c726-22fa-4128-b18f-15e7102a66dd",
+      "caseVolumeLTM": 0.3,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 28.556805699999998,
+        "longitude": -81.20149719999999,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "89f1aeb6-bbcc-4fcb-90cc-1b3a731aa193",
+      "caseVolumeLTM": 3,
+      "caseVolume2024": null,
+      "cirocCases": 66.8028091875,
+      "percentile": 31.04616687844134,
+      "geoLocation": {
+        "latitude": 32.7486315,
+        "longitude": -96.6367296,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "7ffed052-4905-4b58-a31e-3fdebbb9143d",
+      "caseVolumeLTM": 4,
+      "caseVolume2024": null,
+      "cirocCases": 111.5209716375,
+      "percentile": 11.689961880559082,
+      "geoLocation": {
+        "latitude": 32.748238,
+        "longitude": -96.62510689999999,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "8346e0e8-6589-4199-9c12-cb259f51dc32",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": 79.5886888625,
+      "percentile": 22.193985599322318,
+      "geoLocation": {
+        "latitude": 30.3998398,
+        "longitude": -97.74736779999999,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "bc02147d-0e49-4e5b-985e-12a45b25f4cc",
+      "caseVolumeLTM": 1,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 29.7929136,
+        "longitude": -95.80118499999999,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "a33032a8-3c89-418c-bd67-5d3671d90797",
+      "caseVolumeLTM": 3,
+      "caseVolume2024": null,
+      "cirocCases": 203.177749,
+      "percentile": 3.98136382888606,
+      "geoLocation": {
+        "latitude": 29.5546475,
+        "longitude": -95.4152847,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "afcaa282-464b-4b45-a597-29a3bbdd712b",
+      "caseVolumeLTM": 1,
+      "caseVolume2024": null,
+      "cirocCases": 49.5,
+      "percentile": 48.58110969927996,
+      "geoLocation": {
+        "latitude": 27.7475054,
+        "longitude": -82.67897889999999,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "d82eb6fa-81c9-47b1-bd65-bc06c56a4965",
+      "caseVolumeLTM": 9,
+      "caseVolume2024": null,
+      "cirocCases": 119.25,
+      "percentile": 9.656925031766207,
+      "geoLocation": {
+        "latitude": 30.424443999999998,
+        "longitude": -87.264234,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "c6a49abc-d980-4973-a631-a19193868599",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": 72.625,
+      "percentile": 25.92121982210928,
+      "geoLocation": {
+        "latitude": 30.3816338,
+        "longitude": -87.3069366,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "7a740a6e-2594-4d39-bf0c-d17b97a42c56",
+      "caseVolumeLTM": 1,
+      "caseVolume2024": null,
+      "cirocCases": 49,
+      "percentile": 49.04701397712834,
+      "geoLocation": {
+        "latitude": 30.4025086,
+        "longitude": -87.3199234,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "365f6be6-2d0d-450d-9341-1c0b972c56f6",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 32.8281797,
+        "longitude": -96.82387570000002,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "8656b8f0-9f49-4284-8e04-d41111fc7827",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": 108.0733582875,
+      "percentile": 12.664125370605674,
+      "geoLocation": {
+        "latitude": 32.7815483,
+        "longitude": -96.80471039999999,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "ba023660-f851-4aea-abe9-f0a5171407e0",
+      "caseVolumeLTM": 2,
+      "caseVolume2024": null,
+      "cirocCases": 43,
+      "percentile": 57.81448538754765,
+      "geoLocation": {
+        "latitude": 28.6706281,
+        "longitude": -81.4512202,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "3c8a4669-217f-4d0a-9ade-7f480b416d9b",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": 37.25,
+      "percentile": 67.5984752223634,
+      "geoLocation": {
+        "latitude": 28.5983233,
+        "longitude": -81.2423641,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "c898b97f-7568-49ce-a781-7598c9e28f64",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": 61.0133818,
+      "percentile": 36.1711139347734,
+      "geoLocation": {
+        "latitude": 29.9950631,
+        "longitude": -95.73727459999999,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "23178a3d-d350-40d6-9cb7-5c0d6f20c225",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": 57.80084895,
+      "percentile": 39.00889453621347,
+      "geoLocation": {
+        "latitude": 29.8205147,
+        "longitude": -95.46472399999999,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "59f053ed-bcdf-4155-8a9c-cbae6285c948",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": 33.6819483625,
+      "percentile": 74.29055484963999,
+      "geoLocation": {
+        "latitude": 29.917876399999997,
+        "longitude": -95.668988,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "444d46b9-875c-473b-9574-2cb48c47904c",
+      "caseVolumeLTM": 1.8,
+      "caseVolume2024": null,
+      "cirocCases": 72.5272895875,
+      "percentile": 26.005929690808983,
+      "geoLocation": {
+        "latitude": 30.1056535,
+        "longitude": -97.33539999999999,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "246a9fc2-1d30-4366-9c08-191aec6e5866",
+      "caseVolumeLTM": 4,
+      "caseVolume2024": null,
+      "cirocCases": 50.1497267,
+      "percentile": 47.522236340533674,
+      "geoLocation": {
+        "latitude": 30.4710514,
+        "longitude": -97.6909778,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "e9edf291-c7cc-4920-8d3c-614bdfb94913",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 27.797613199999997,
+        "longitude": -97.4421861,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "b92ad27e-523b-4bab-a93d-5ef8db8d1d6a",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 29.7013008,
+        "longitude": -95.3716683,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "ca71c8c9-4577-4613-96a6-af83dfd6e117",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 31.8850381,
+        "longitude": -102.3745623,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "743bd84a-0542-44bb-8dbc-0819a9827df2",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 29.681589499999998,
+        "longitude": -97.6478813,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "21833099-d377-450c-9664-3e35c02abe91",
+      "caseVolumeLTM": 1,
+      "caseVolume2024": null,
+      "cirocCases": 109.6441721,
+      "percentile": 12.155866158407449,
+      "geoLocation": {
+        "latitude": 29.397546,
+        "longitude": -95.83421799999999,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "a1d7a9f0-e4b0-44c9-83ec-9844bb1309da",
+      "caseVolumeLTM": 0.1,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 34.0871332,
+        "longitude": -84.2195224,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "178412b7-384a-482a-8057-c73848c51a03",
+      "caseVolumeLTM": 0.3,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 33.393180799999996,
+        "longitude": -83.2321319,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "ab4d32cf-f32f-4bf8-8661-251cc3195946",
+      "caseVolumeLTM": 4,
+      "caseVolume2024": null,
+      "cirocCases": 84.04856885,
+      "percentile": 20.160948750529442,
+      "geoLocation": {
+        "latitude": 33.0904165,
+        "longitude": -96.1107083,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "9ff79ab4-bb57-460b-b734-e2caec6ea71b",
+      "caseVolumeLTM": 4,
+      "caseVolume2024": null,
+      "cirocCases": 187.375,
+      "percentile": 4.659042778483695,
+      "geoLocation": {
+        "latitude": 30.4313956,
+        "longitude": -87.24031599999999,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "6fbca8ae-9a3b-410d-bc2b-582f1556be40",
+      "caseVolumeLTM": 5,
+      "caseVolume2024": null,
+      "cirocCases": 74.7971048,
+      "percentile": 24.65057179161373,
+      "geoLocation": {
+        "latitude": 29.1430158,
+        "longitude": -98.1575268,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "99a5a973-bbba-48d5-9616-e8341bb7bf62",
+      "caseVolumeLTM": 2.8,
+      "caseVolume2024": null,
+      "cirocCases": 97.96399745,
+      "percentile": 15.078356628547226,
+      "geoLocation": {
+        "latitude": 32.7590478,
+        "longitude": -96.7427987,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "be100b63-1f89-4213-ae99-4b92e62f0981",
+      "caseVolumeLTM": 0.5,
+      "caseVolume2024": null,
+      "cirocCases": 63.6257195125,
+      "percentile": 33.714527742482005,
+      "geoLocation": {
+        "latitude": 30.6443136,
+        "longitude": -96.3504765,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "eb964260-1e24-4b74-a81d-e71ff181ac42",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": 49.4780046875,
+      "percentile": 48.623464633629816,
+      "geoLocation": {
+        "latitude": 29.6627157,
+        "longitude": -95.73985909999999,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "12284fd4-4bb5-4473-aa94-c59b0216951b",
+      "caseVolumeLTM": 3,
+      "caseVolume2024": null,
+      "cirocCases": 40.7017983375,
+      "percentile": 60.90639559508683,
+      "geoLocation": {
+        "latitude": 29.9085391,
+        "longitude": -93.91923000000001,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "2993cc05-88b4-457d-bf08-5b6c12b9e45f",
+      "caseVolumeLTM": 14,
+      "caseVolume2024": null,
+      "cirocCases": 267.836763375,
+      "percentile": 2.1177467174925937,
+      "geoLocation": {
+        "latitude": 30.0682786,
+        "longitude": -94.11135469999999,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "406e364d-bdf5-473f-bcac-274b630fab52",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": 69.4755161625,
+      "percentile": 28.547225751800084,
+      "geoLocation": {
+        "latitude": 30.0763443,
+        "longitude": -94.1745468,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "f398f59c-dd20-42b6-84a6-719c7a43b15b",
+      "caseVolumeLTM": 5,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 29.9051962,
+        "longitude": -93.9369036,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "b39f5f0b-cac9-4f1c-8cfe-ef77dfa3cd36",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 30.0951632,
+        "longitude": -94.1039504,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "29b713aa-52fa-4f18-8466-f1f02fa2b5f2",
+      "caseVolumeLTM": 2,
+      "caseVolume2024": null,
+      "cirocCases": 53.6622438125,
+      "percentile": 43.329097839898346,
+      "geoLocation": {
+        "latitude": 29.8687826,
+        "longitude": -94.83167259999999,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "22e14ee2-0dad-434e-baa6-6cb6a3100797",
+      "caseVolumeLTM": 1,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 29.6181469,
+        "longitude": -95.4947411,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "4648fff5-4349-4a83-bbe5-a2e59cf739c0",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": 102.3112741,
+      "percentile": 13.89241846675138,
+      "geoLocation": {
+        "latitude": 29.6545532,
+        "longitude": -95.3547852,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "84c5e685-50be-429a-b787-4f93ef3522b6",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": 116.8873460625,
+      "percentile": 10.165184243964418,
+      "geoLocation": {
+        "latitude": 29.2917806,
+        "longitude": -94.7892941,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "3dbbf90a-c393-4a21-bf2c-46e545bfdb6e",
+      "caseVolumeLTM": 2,
+      "caseVolume2024": null,
+      "cirocCases": 121.625,
+      "percentile": 9.063955950868277,
+      "geoLocation": {
+        "latitude": 28.2840445,
+        "longitude": -81.3523676,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "bfbbf62f-0396-42c6-8e4f-9ea246fa8166",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": 37.405391675,
+      "percentile": 67.13257094451504,
+      "geoLocation": {
+        "latitude": 29.58859229999999,
+        "longitude": -98.6314872,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "c83f7f5a-f312-4cd8-8d25-e360855e0f27",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": 47.6096353375,
+      "percentile": 50.995340957221515,
+      "geoLocation": {
+        "latitude": 31.5103158,
+        "longitude": -97.1901693,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "cfc79b75-7282-455e-b26b-20a27c205839",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 31.545235,
+        "longitude": -97.1277315,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "4e5d2540-85e5-49ba-b475-e144f8b6b718",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 35.1186845,
+        "longitude": -81.0855017,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "10b5b001-801c-4508-8e29-e94827897352",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 34.957994,
+        "longitude": -81.0460188,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "50c58a9a-d9b9-4847-942c-752dc9faf153",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 33.9905336,
+        "longitude": -80.9774767,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "9adcdbbe-b6d0-426b-9295-b53c6da727c9",
+      "caseVolumeLTM": null,
+      "caseVolume2024": null,
+      "cirocCases": 21.5,
+      "percentile": 96.78102498941126,
+      "geoLocation": {
+        "latitude": 28.793539799999998,
+        "longitude": -81.27281049999999,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "7085db47-5c1c-44d2-aea3-606c1645d2ed",
+      "caseVolumeLTM": 4,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 29.5076333,
+        "longitude": -95.4598843,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "4037c8b2-9767-481c-aec5-196eaa6cf1bb",
+      "caseVolumeLTM": 4,
+      "caseVolume2024": null,
+      "cirocCases": null,
+      "percentile": null,
+      "geoLocation": {
+        "latitude": 29.582062,
+        "longitude": -95.3907701,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "87bf6afa-8408-4a5e-a424-f0597b4343c9",
+      "caseVolumeLTM": 4,
+      "caseVolume2024": null,
+      "cirocCases": 28.17420835,
+      "percentile": 86.65819567979669,
+      "geoLocation": {
+        "latitude": 29.5299285,
+        "longitude": -95.50883569999999,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    },
+    {
+      "id": "a4d585f3-3c95-4aff-a2fe-2fa214d26bf5",
+      "caseVolumeLTM": 10,
+      "caseVolume2024": null,
+      "cirocCases": 175.15222425,
+      "percentile": 5.548496399830583,
+      "geoLocation": {
+        "latitude": 30.7136781,
+        "longitude": -95.51761049999999,
+        "__typename": "Point"
+      },
+      "__typename": "Store"
+    }
+  
+  ]
+}
+
